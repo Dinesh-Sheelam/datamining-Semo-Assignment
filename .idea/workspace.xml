@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="779ea7e7-cdef-4ee5-87d5-f7401a821f25" name="Changes" comment="Use Profiling&#10;1)&#9;Define the following metrics and perform the following operations&#10;i)&#9;Write a Python program using Python Lists&#10;ii)&#9;Write a Python program and NumPy&#10;&#10;Matrix A =  [[ 3.7827  3.3454  3.2341]  , [ 2.2122  3.5678  3.9087] , &#10;[1.1234  2.8934,  5.9087]].&#10;&#10;Matrix B =  [[ 3.1234  3.0987  3.1234]  , [ 2.1111  3.2222  3.3333] , &#10;[1.0987  1.3456,  5.1234]].&#10;&#10;Matrix C =  [[ 3.1243  3.0989  3.1256 ]  , [ 2.6721  3.6785  3.9017] , &#10;[1.1254  2.8956,  5.9187]].&#10;&#10;2)&#9;Write a Python Program and perform the following operations?&#10;I.&#9;Create a List {1225, 4986, 6789, 7890, 2345, 6783, 0987, 1234, 8765, 3456}&#10;II.&#9;Iterate using a for loop&#10;III.&#9;Iterate using for loop and range&#10;IV.&#9;List Comprehension&#10;V.&#9;Enumerate&#10;VI.&#9;Iter function and next function&#10;VII.&#9;Map function&#10;VIII.&#9;Using zip&#10;IX.&#9;Using NumPy Module&#10;&#10;&#10;3)&#9;For a List A, B, C, D, E write a python program to compute all the combinations and permutations &#10;&#10;4)&#9;Using the same list use itertools compute permutations and combinations" />
+    <list default="true" id="779ea7e7-cdef-4ee5-87d5-f7401a821f25" name="Changes" comment="Use Profiling&#10;1)&#9;Define the following metrics and perform the following operations&#10;i)&#9;Write a Python program using Python Lists&#10;ii)&#9;Write a Python program and NumPy&#10;&#10;Matrix A =  [[ 3.7827  3.3454  3.2341]  , [ 2.2122  3.5678  3.9087] , &#10;[1.1234  2.8934,  5.9087]].&#10;&#10;Matrix B =  [[ 3.1234  3.0987  3.1234]  , [ 2.1111  3.2222  3.3333] , &#10;[1.0987  1.3456,  5.1234]].&#10;&#10;Matrix C =  [[ 3.1243  3.0989  3.1256 ]  , [ 2.6721  3.6785  3.9017] , &#10;[1.1254  2.8956,  5.9187]].&#10;&#10;2)&#9;Write a Python Program and perform the following operations?&#10;I.&#9;Create a List {1225, 4986, 6789, 7890, 2345, 6783, 0987, 1234, 8765, 3456}&#10;II.&#9;Iterate using a for loop&#10;III.&#9;Iterate using for loop and range&#10;IV.&#9;List Comprehension&#10;V.&#9;Enumerate&#10;VI.&#9;Iter function and next function&#10;VII.&#9;Map function&#10;VIII.&#9;Using zip&#10;IX.&#9;Using NumPy Module&#10;&#10;&#10;3)&#9;For a List A, B, C, D, E write a python program to compute all the combinations and permutations &#10;&#10;4)&#9;Using the same list use itertools compute permutations and combinations">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Review_git1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Review_git1.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,23 +23,23 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2lZKq7l7Gh7td8ZOGamIOeAT1fQ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.git.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.git.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -85,7 +88,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725382911288</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Use Profiling&#10;1)&#9;Define the following metrics and perform the following operations&#10;i)&#9;Write a Python program using Python Lists&#10;ii)&#9;Write a Python program and NumPy&#10;&#10;Matrix A =  [[ 3.7827  3.3454  3.2341]  , [ 2.2122  3.5678  3.9087] , &#10;[1.1234  2.8934,  5.9087]].&#10;&#10;Matrix B =  [[ 3.1234  3.0987  3.1234]  , [ 2.1111  3.2222  3.3333] , &#10;[1.0987  1.3456,  5.1234]].&#10;&#10;Matrix C =  [[ 3.1243  3.0989  3.1256 ]  , [ 2.6721  3.6785  3.9017] , &#10;[1.1254  2.8956,  5.9187]].&#10;&#10;2)&#9;Write a Python Program and perform the following operations?&#10;I.&#9;Create a List {1225, 4986, 6789, 7890, 2345, 6783, 0987, 1234, 8765, 3456}&#10;II.&#9;Iterate using a for loop&#10;III.&#9;Iterate using for loop and range&#10;IV.&#9;List Comprehension&#10;V.&#9;Enumerate&#10;VI.&#9;Iter function and next function&#10;VII.&#9;Map function&#10;VIII.&#9;Using zip&#10;IX.&#9;Using NumPy Module&#10;&#10;&#10;3)&#9;For a List A, B, C, D, E write a python program to compute all the combinations and permutations &#10;&#10;4)&#9;Using the same list use itertools compute permutations and combinations">
+      <option name="closed" value="true" />
+      <created>1725387876164</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1725387876164</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

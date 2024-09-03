@@ -1,3 +1,10 @@
+'''
+3)	For a List A, B, C, D, E write a python program to compute all the combinations and permutations
+
+4)	Using the same list use itertools compute permutations and combinations
+
+'''
+
 from itertools import combinations, permutations
 
 # Define the lists
